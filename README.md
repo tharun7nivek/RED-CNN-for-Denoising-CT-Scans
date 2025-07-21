@@ -3,7 +3,7 @@
 ## **Overview**  
 This project focuses on enhancing the quality of low-dose CT scan images affected by Poisson and periodic noise. Using a **Residual Encoder-Decoder Convolutional Neural Network (RED-CNN)**, the system provides denoised CT scans to improve medical diagnosis while reducing the need for high-dose radiation exposure.  
 
-To ensure accessibility, a **web-based platform** has been developed that allows users to upload and process CT scans seamlessly. The backend is built with **Django**, while the frontend uses **HTML, CSS, and JavaScript**, ensuring a responsive and user-friendly experience.  
+To ensure accessibility, a **web-based application platform** has been developed that allows users to upload and process CT scans seamlessly. The backend is built with **Django**, while the frontend uses **HTML, CSS, and JavaScript**, ensuring a responsive and user-friendly experience.  
 
 ## **Features**  
 - **Real-time Denoising**: Processes CT scans with RED-CNN to remove Poisson and periodic noise.  
